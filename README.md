@@ -15,7 +15,7 @@
             <strong>
                 I specialize in .NET Core and Microsoft SQL Server . Good in Algorithms, Data Structures, Database Design, Object-Oriented Programming and Design Patterns.<br><br>
                 I am passionate about learning .NET, all Back-End Technologies .<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                 responsible, and committed engineer, with get on-time . Self and quick learner
             </strong>
         </p>
         <ul>
