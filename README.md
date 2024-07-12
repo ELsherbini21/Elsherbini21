@@ -19,7 +19,7 @@
             </strong>
         </p>
         <ul>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/drive/u/0/my-drive">LINK TO MY RESUME</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1D_ckPlHEQfpitu_FA4c-gGnUpYEL38YN/view?usp=drive_link)">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me anything about my experience with , C# , ASP.Net Or anything related to web development. </b></li>
             <li> <b>👨‍💻 As a CCE graduate , I'm constantly learning and exploring new technologies to improve my skills.</li>
         </ul>
