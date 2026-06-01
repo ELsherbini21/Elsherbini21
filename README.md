@@ -1,36 +1,178 @@
-<div>
-    <div align=center>
-        <img src="https://avatars.githubusercontent.com/u/14873244?v=4" alt="GitHub Octocat Stole my laptop" height="200">
-    </div>
-    <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&weight=500&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Elsherbini+Mahmoud;Back-End+.net+Developer" alt="Typing SVG" />    </div>
-    <div align=center>
-        <a href="https://www.linkedin.com/in/elsherbini-mahmoud-a75858284/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="mailto:elsherbinimahmoud1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-        <a href="https://api.whatsapp.com/send?phone=201024041766"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp" alt="WhatsApp" /></a>
-    </div>
-    <div align=left>
-        <br>
-        <p>
-            <strong>
-                I specialize in .NET Core and Microsoft SQL Server . Good in Algorithms, Data Structures, Database Design, Object-Oriented Programming and Design Patterns.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies .<br><br>
-                 responsible, and committed engineer, with get on-time . Self and quick learner
-            </strong>
-        </p>
-        <ul>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1D_ckPlHEQfpitu_FA4c-gGnUpYEL38YN/view?usp=drive_link">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me anything about my experience with , C# , ASP.Net Or anything related to web development. </b></li>
-            <li> <b>👨‍💻 As a CCE graduate , I'm constantly learning and exploring new technologies to improve my skills.</li>
-        </ul>
-              
-</div>
-<div align=center>
-     <img src="https://github-readme-stats.vercel.app/api?username=Elsherbini21&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsherbini21&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+# Elsherbini Mahmoud
 
-</div>
+### Software Engineer | Backend .NET Developer | ASP.NET Core Specialist
 
+I design and build scalable backend systems using **ASP.NET Core**, **C#**, **Entity Framework Core**, and modern software architecture principles.
 
-------
+My focus is on developing maintainable, secure, and high-performance applications following **Clean Architecture**, **CQRS**, **SOLID Principles**, and Domain-Centric Design practices.
 
+Currently, I am focused on strengthening my expertise in enterprise application development, API design, system architecture, database optimization, and real-time communication systems.
+
+---
+
+## About Me
+
+* Software Engineer based in Mansoura, Egypt
+* Specialized in Backend Development using ASP.NET Core
+* Passionate about scalable architecture and clean code
+* Strong focus on API design, authentication, authorization, and database performance
+* Interested in enterprise software, distributed systems, and software architecture
+* Continuously improving problem-solving and system design skills
+
+---
+
+## Technical Expertise
+
+### Backend Development
+
+* C#
+* ASP.NET Core MVC
+* ASP.NET Core Web API
+* Entity Framework Core
+* LINQ
+* SignalR
+* ASP.NET Identity
+* JWT Authentication
+* RESTful APIs
+
+### Architecture & Design
+
+* Clean Architecture
+* CQRS
+* SOLID Principles
+* Onion Architecture
+* Repository Pattern
+* Unit of Work Pattern
+* Specification Pattern
+* Dependency Injection
+* MediatR
+
+### Database
+
+* SQL Server
+* Database Design
+* Query Optimization
+* Indexing
+* Stored Procedures
+
+### Frontend
+
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* jQuery
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio
+
+---
+
+# Featured Projects
+
+## CoursesCenter
+
+Enterprise-grade Learning Management System built with ASP.NET Core.
+
+### Highlights
+
+* Clean Architecture implementation
+* Real-time notifications using SignalR
+* Real-time messaging system
+* Online examination platform
+* Automated grading workflows
+* Role-based authorization
+* Analytics and reporting dashboard
+* SQL Server optimized database design
+
+### Technologies
+
+ASP.NET Core 9 • Entity Framework Core • SQL Server • SignalR • Bootstrap
+
+---
+
+## Talabat API
+
+Scalable E-Commerce Backend API designed with modern architectural patterns.
+
+### Highlights
+
+* Onion Architecture
+* JWT Authentication
+* Generic Repository Pattern
+* Unit Of Work Pattern
+* Specification Pattern
+* Global Error Handling Middleware
+* Secure API Design
+* RESTful Architecture
+
+### Technologies
+
+ASP.NET Core Web API • Entity Framework Core • SQL Server • AutoMapper
+
+---
+
+## Shopping Cart
+
+Full-featured E-Commerce Platform built with ASP.NET Core MVC.
+
+### Highlights
+
+* Product Management
+* Category Management
+* Multi-role Authorization
+* Inventory Tracking
+* Payment Integration
+* Administrative Dashboard
+* Responsive UI
+
+### Technologies
+
+ASP.NET Core MVC • Entity Framework Core • SQL Server • Bootstrap
+
+---
+
+## Engineering Principles
+
+I believe software should be:
+
+* Maintainable
+* Testable
+* Scalable
+* Secure
+* Performance-Oriented
+
+Every project I build follows architecture and design principles that support long-term maintainability and business growth.
+
+---
+
+## Currently Working On
+
+* Advanced ASP.NET Core Development
+* Software Architecture
+* CQRS & MediatR
+* System Design
+* Design Patterns
+* High-Performance APIs
+* Enterprise Application Development
+
+---
+
+## Career Objective
+
+My goal is to become a Senior Software Engineer specializing in backend systems and enterprise application development while building software that is scalable, reliable, and impactful.
+
+---
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/elsherbini-mahmoud
+
+GitHub: github.com/ELsherbini21
+
+Email: [elsherbinimahmoud1999@gmail.com](mailto:elsherbinimahmoud1999@gmail.com)
+
+Location: Mansoura, Egypt
