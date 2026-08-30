@@ -2,72 +2,94 @@
 
 ### Software Engineer | Backend .NET Developer | ASP.NET Core Specialist
 
-I design and build scalable backend systems using **ASP.NET Core**, **C#**, **Entity Framework Core**, and modern software architecture principles.
+I design and build scalable, maintainable web applications using **C#**, **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, and modern software architecture principles.
 
-My focus is on developing maintainable, secure, and high-performance applications following **Clean Architecture**, **CQRS**, **SOLID Principles**, and Domain-Centric Design practices.
+My primary focus is backend engineering, with strong experience in **RESTful API development, authentication and authorization, database design, Clean Architecture, CQRS, SOLID principles, and real-time communication**.
 
-Currently, I am focused on strengthening my expertise in enterprise application development, API design, system architecture, database optimization, and real-time communication systems.
+I also have practical experience with **Angular and TypeScript** for building modern frontend applications, and I have expanded my backend knowledge into **caching and Redis** for improving application performance and supporting distributed systems.
 
 ---
 
 ## About Me
 
-* Software Engineer based in Mansoura, Egypt
-* Specialized in Backend Development using ASP.NET Core
-* Passionate about scalable architecture and clean code
-* Strong focus on API design, authentication, authorization, and database performance
-* Interested in enterprise software, distributed systems, and software architecture
-* Continuously improving problem-solving and system design skills
+- Software Engineer based in Mansoura, Egypt
+- Backend-focused .NET Developer
+- Strong focus on ASP.NET Core and API development
+- Experienced with Clean Architecture and CQRS
+- Interested in scalable systems, distributed systems, and software architecture
+- Continuously improving backend, frontend, and system design skills
 
 ---
 
-## Technical Expertise
+# Technical Expertise
 
-### Backend Development
+## Backend Development
 
-* C#
-* ASP.NET Core MVC
-* ASP.NET Core Web API
-* Entity Framework Core
-* LINQ
-* SignalR
-* ASP.NET Identity
-* JWT Authentication
-* RESTful APIs
+- C#
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- Entity Framework Core
+- LINQ
+- RESTful APIs
+- SignalR
+- ASP.NET Identity
+- JWT Authentication & Authorization
+- MediatR
+- Async Programming
 
-### Architecture & Design
+## Architecture & Design
 
-* Clean Architecture
-* CQRS
-* SOLID Principles
-* Onion Architecture
-* Repository Pattern
-* Unit of Work Pattern
-* Specification Pattern
-* Dependency Injection
-* MediatR
+- Clean Architecture
+- CQRS
+- SOLID Principles
+- Onion Architecture
+- Repository Pattern
+- Unit of Work Pattern
+- Specification Pattern
+- Dependency Injection
+- Domain-Centric Design
+- Separation of Concerns
 
-### Database
+## Caching & Distributed Systems
 
-* SQL Server
-* Database Design
-* Query Optimization
-* Indexing
-* Stored Procedures
+- Caching Fundamentals
+- Redis
+- Distributed Caching
+- `IMemoryCache`
+- `IDistributedCache`
+- Cache-Aside Pattern
+- Cache Expiration
+- Cache Invalidation
 
-### Frontend
+## Database
 
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-* jQuery
+- SQL Server
+- PostgreSQL
+- Database Design
+- Query Optimization
+- Indexing
+- T-SQL
+- Stored Procedures
 
-### Tools
+## Frontend
 
-* Git
-* GitHub
-* Visual Studio
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- Responsive Web Design
+
+## Tools & Development
+
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+- Swagger / OpenAPI
+- Postman
 
 ---
 
@@ -75,104 +97,139 @@ Currently, I am focused on strengthening my expertise in enterprise application 
 
 ## CoursesCenter
 
-Enterprise-grade Learning Management System built with ASP.NET Core.
+Enterprise Learning Management System built with ASP.NET Core.
 
 ### Highlights
 
-* Clean Architecture implementation
-* Real-time notifications using SignalR
-* Real-time messaging system
-* Online examination platform
-* Automated grading workflows
-* Role-based authorization
-* Analytics and reporting dashboard
-* SQL Server optimized database design
+- Clean Architecture
+- Repository, Unit of Work, and Specification Patterns
+- Real-time communication using SignalR
+- Online examination platform
+- Automated grading
+- Dynamic question generation
+- Role-based authorization
+- Analytics and reporting
+- Optimized SQL Server database design
 
 ### Technologies
 
-ASP.NET Core 9 • Entity Framework Core • SQL Server • SignalR • Bootstrap
+`ASP.NET Core 9` • `Entity Framework Core 9` • `SQL Server` • `SignalR` • `Bootstrap 5.3`
 
 ---
 
 ## Talabat API
 
-Scalable E-Commerce Backend API designed with modern architectural patterns.
+Scalable E-Commerce Backend API designed using modern architectural patterns.
 
 ### Highlights
 
-* Onion Architecture
-* JWT Authentication
-* Generic Repository Pattern
-* Unit Of Work Pattern
-* Specification Pattern
-* Global Error Handling Middleware
-* Secure API Design
-* RESTful Architecture
+- Onion Architecture
+- JWT Authentication
+- Refresh Token Support
+- Generic Repository Pattern
+- Unit of Work Pattern
+- Specification Pattern
+- Global Exception Handling
+- FluentValidation
+- RESTful API Design
+- Swagger / OpenAPI Documentation
 
 ### Technologies
 
-ASP.NET Core Web API • Entity Framework Core • SQL Server • AutoMapper
+`ASP.NET Core Web API` • `Entity Framework Core` • `SQL Server` • `AutoMapper`
 
 ---
 
 ## Shopping Cart
 
-Full-featured E-Commerce Platform built with ASP.NET Core MVC.
+Full-Stack E-Commerce Platform built with ASP.NET Core MVC.
 
 ### Highlights
 
-* Product Management
-* Category Management
-* Multi-role Authorization
-* Inventory Tracking
-* Payment Integration
-* Administrative Dashboard
-* Responsive UI
+- Product Management
+- Category Management
+- Multi-role Authorization
+- Inventory Management
+- Payment Integration
+- Administrative Dashboard
+- Responsive User Interface
 
 ### Technologies
 
-ASP.NET Core MVC • Entity Framework Core • SQL Server • Bootstrap
+`ASP.NET Core MVC` • `Entity Framework Core 9` • `SQL Server` • `Bootstrap 5.3` • `Razor Views`
 
 ---
 
-## Engineering Principles
+## Quran Application
 
-I believe software should be:
+Interactive Quran reading and memorization application built with ASP.NET Core MVC.
 
-* Maintainable
-* Testable
-* Scalable
-* Secure
-* Performance-Oriented
+### Highlights
 
-Every project I build follows architecture and design principles that support long-term maintainability and business growth.
+- Quran Surah and Ayah browsing
+- Quran reading interface
+- Arabic Quran text with proper formatting
+- Memorization quiz system
+- Dynamic question generation
+- Randomized answer choices
+- AJAX-based interaction
+- Arabic numeral support
+- Clean and responsive Islamic-themed UI
 
----
+### Technologies
 
-## Currently Working On
-
-* Advanced ASP.NET Core Development
-* Software Architecture
-* CQRS & MediatR
-* System Design
-* Design Patterns
-* High-Performance APIs
-* Enterprise Application Development
+`ASP.NET Core MVC` • `Entity Framework Core` • `SQL Server` • `jQuery` • `Bootstrap`
 
 ---
 
-## Career Objective
+# Engineering Principles
 
-My goal is to become a Senior Software Engineer specializing in backend systems and enterprise application development while building software that is scalable, reliable, and impactful.
+I believe good software should be:
+
+- Maintainable
+- Scalable
+- Testable
+- Secure
+- Performance-oriented
+- Easy to understand
+
+I focus on building systems where business logic, data access, APIs, and infrastructure responsibilities are clearly separated.
 
 ---
 
-## Connect With Me
+# Currently Learning & Improving
 
-LinkedIn: linkedin.com/in/elsherbini-mahmoud
+- Advanced ASP.NET Core
+- Redis & Distributed Caching
+- Distributed Systems
+- Message Queuing
+- Event-Driven Architecture
+- RabbitMQ
+- Automated Testing
+- Unit Testing with xUnit & Moq
+- Playwright
+- Rate Limiting in ASP.NET Core
+- MCP development with .NET
+- System Design
 
-GitHub: github.com/ELsherbini21
+---
 
-Email: [elsherbinimahmoud1999@gmail.com](mailto:elsherbinimahmoud1999@gmail.com)
+# Career Goal
 
-Location: Mansoura, Egypt
+My goal is to grow into a **Senior Software Engineer specializing in backend systems and enterprise application development**, while maintaining strong full-stack capabilities and continuously improving my knowledge of scalable and distributed software systems.
+
+---
+
+# Connect With Me
+
+**LinkedIn:**  
+https://linkedin.com/in/elsherbini-mahmoud
+
+**GitHub:**  
+https://github.com/ELsherbini21
+
+**Email:**  
+elsherbinimahmoud1999@gmail.com
+
+**Location:**  
+Mansoura, Egypt
